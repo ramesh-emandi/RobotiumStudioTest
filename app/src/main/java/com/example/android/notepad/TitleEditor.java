@@ -45,6 +45,9 @@ public class TitleEditor extends Activity implements View.OnClickListener {
         NoteColumns._ID, // 0
         NoteColumns.TITLE, // 1
     };
+
+
+    
     /** Index of the title column */
     private static final int COLUMN_INDEX_TITLE = 1;
 
