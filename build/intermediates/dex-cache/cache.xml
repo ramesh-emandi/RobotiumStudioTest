@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ramesh/WORK/ExampleTestProject_AndroidStudio_v5.4.1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/ramesh/WORK/ExampleTestProject_AndroidStudio_v5.4.1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-558861bf8bfdd776235e567cd56943c9ba047198.jar" />
+    </item>
+    <item
+        jar="/Users/ramesh/WORK/ExampleTestProject_AndroidStudio_v5.4.1/app/libs/robotium-solo-5.4.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ad8752569d01775ba64ad0f5afc1bb6c3cad0e4b">
+        <dex dex="/Users/ramesh/WORK/ExampleTestProject_AndroidStudio_v5.4.1/app/build/intermediates/pre-dexed/debug/robotium-solo-5.4.1-eab8e24e6a00ce2caf02723a2d3b1b8accb782c5.jar" />
+    </item>
+    <item
+        jar="/Users/ramesh/WORK/ExampleTestProject_AndroidStudio_v5.4.1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/ramesh/WORK/ExampleTestProject_AndroidStudio_v5.4.1/app/build/intermediates/pre-dexed/debug/classes-2f49c3c55732bf7736397a17b9291773fba6d5a0.jar" />
+    </item>
+    <item
+        jar="/Users/ramesh/WORK/ExampleTestProject_AndroidStudio_v5.4.1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/ramesh/WORK/ExampleTestProject_AndroidStudio_v5.4.1/app/build/intermediates/pre-dexed/debug/classes-50e7327b86256cbe527dd874532aa44ab60b6f04.jar" />
+    </item>
+    <item
+        jar="/Users/ramesh/Development/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/ramesh/WORK/ExampleTestProject_AndroidStudio_v5.4.1/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-31297e4c2c13c086910d6a2f6909de4bfdf35c67.jar" />
+    </item>
+
+</items>
